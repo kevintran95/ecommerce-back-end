@@ -10,8 +10,8 @@ To install this application, first clone the repository from Github. After cloni
 https://watch.screencastify.com/v/2bBHus6G6wQOzfZZBxz5
 
 ## Credit
-Kevin Tran 
-stackoverflow.com
+- Kevin Tran 
+- stackoverflow.com
 
 
 ## Test
